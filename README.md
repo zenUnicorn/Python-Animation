@@ -22,4 +22,4 @@ Creating python animations using matplolib and other libraries.
 - [Python](https://python.org/)
 
 
-If you have any feedback, kindly reach out to me via email.
+If you have any feedback, kindly reach out to me via [email](iamholumeedey007@gmail.com).
