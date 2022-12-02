@@ -24,10 +24,3 @@ Creating python animations using matplolib and other libraries.
 
 
 If you have any feedback, kindly reach out to me via email.
-
-
-### Check out my pinned projects below 👇
-
-
-
-
