@@ -4,12 +4,15 @@ Creating python animations using matplolib and other libraries.
 
 ## 🛠 Libraries & tools
 - Python 🐍 
-- matplitlib
+- matplotlib
 - Pandas
 - Time
 - OS
 
 ## Installation
+```bash
+  pip install matplotlib
+```
 
 ## CI/CD Tools
 
