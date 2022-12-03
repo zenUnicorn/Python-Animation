@@ -10,7 +10,8 @@ Creating python animations using matplolib and other libraries.
 - OS
 
 ## Installation
-```bash
+```python
+  #Matplotlib 
   pip install matplotlib
 ```
 
