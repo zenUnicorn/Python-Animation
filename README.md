@@ -11,7 +11,7 @@ Creating python animations using matplolib and other libraries.
 
 ## Installation
 ```python
-  #Matplotlib 
+  # Matplotlib 
   pip install matplotlib
 ```
 
