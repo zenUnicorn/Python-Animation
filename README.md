@@ -9,6 +9,8 @@ Creating python animations using matplolib and other libraries.
 - Time
 - OS
 
+## Installation
+
 ## CI/CD Tools
 
 [![GitHub](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/zenUnicorn/)
