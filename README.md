@@ -16,6 +16,11 @@ Creating python animations using matplolib and other libraries.
   pip install matplotlib
 ```
 
+```python
+  # Matplotlib 
+  pip install pandas
+```
+
 ## CI/CD Tools
 
 [![GitHub](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/zenUnicorn/)
